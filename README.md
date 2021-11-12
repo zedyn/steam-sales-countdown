@@ -29,7 +29,7 @@ Add your bot token:
 $ cd .\src\database\
 ```
 
-then, open ```console secret_file.json``` and modify the value.
+then, open ```secret_file.json``` and modify the value.
 
 
 Finally, start the bot:
