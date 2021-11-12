@@ -48,7 +48,7 @@ class General(commands.Cog):
 		    	title='Prepare Your Wallet',
 		    	url=URL
 		    )
-		    e.set_author(name='Source')
+		    e.set_author(name='Data Source:')
 		    
 		    await ctx.author.send(embed=e)
 		    
