@@ -1,0 +1,6 @@
+requests
+datetime
+asyncio
+discord
+lxml
+bs4
