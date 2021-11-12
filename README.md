@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://c.tenor.com/zjbXreUb5_YAAAAM/steam.gif" width="30px"> Steam Sales Countdown Bot <img src="https://c.tenor.com/KChHVc7BktYAAAAS/discord-loading.gif" width="30px"></h1>
 
+
+## 📸 Screenshots
 <img src='https://i.hizliresim.com/dwikt48.png' align='center' width=500>
 
 ## 🚧 Prerequisites
