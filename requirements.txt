@@ -1,5 +1,4 @@
 requests
-datetime
 asyncio
 discord
 lxml
