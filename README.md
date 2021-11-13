@@ -1,8 +1,9 @@
-<h1 align="center"><img src="https://c.tenor.com/zjbXreUb5_YAAAAM/steam.gif" width="30px"> Steam Sales Countdown Bot <img src="https://c.tenor.com/KChHVc7BktYAAAAS/discord-loading.gif" width="30px"></h1>
+<h1 align="center"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30px"> Steam Sales Countdown Bot <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30px"></h1>
 
 
 ## 📸 Screenshots
 <img src='https://i.hizliresim.com/dwikt48.png' align='center' width=500>
+<img src='https://i.hizliresim.com/hefjwca.png' align='center' width=500>
 
 ## 🚧 Prerequisites
 - [requests](https://pypi.org/project/requests/)
