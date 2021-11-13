@@ -3,7 +3,6 @@
 
 ## 📸 Screenshots
 <img src='https://i.hizliresim.com/dwikt48.png' align='center' width=500>
-<img src='https://i.hizliresim.com/hefjwca.png' align='center' width=500>
 
 ## 🚧 Prerequisites
 - [requests](https://pypi.org/project/requests/)
